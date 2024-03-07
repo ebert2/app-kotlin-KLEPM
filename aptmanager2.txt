@@ -1,2 +1,2 @@
 v1.0.0
-app:test, test2
+app:test.apt, test2.apt
