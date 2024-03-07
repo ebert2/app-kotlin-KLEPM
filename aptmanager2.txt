@@ -1,1 +1,1 @@
-v1.0.0/napp:/ntest.apt/ntest2.apt
+v1.0.0/ntest.apt/ntest2.apt
