@@ -1,2 +1,1 @@
-v1.0.0
-app:test.apt, test2.apt
+v1.0.0/napp:/ntest.apt/ntest2.apt
